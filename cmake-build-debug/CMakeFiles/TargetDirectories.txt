@@ -1,0 +1,3 @@
+C:/Users/sergi/CLionProjects/Pacman_map_generator/cmake-build-debug/CMakeFiles/Pacman_map_generator.dir
+C:/Users/sergi/CLionProjects/Pacman_map_generator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sergi/CLionProjects/Pacman_map_generator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
